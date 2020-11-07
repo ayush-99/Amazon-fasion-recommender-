@@ -1,4 +1,4 @@
-# Amazon-fasion-recommender-
+# Amazon-fashion-recommender-
 This is a recommender system which recommends fashion products to users based on the product they're currently browsing
 
 We took 2 approaches here which is the NLP method where we did all text based featurizations and tasks and recommended based on that and the other was using computer vision through CNNs At the end, we can store these recommendations on a set dataframe(to avoid duplicate recommendations) and then select the top 5-10 and show it to the customer
