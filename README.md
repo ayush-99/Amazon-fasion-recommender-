@@ -11,4 +11,4 @@ This user-data isn't shared by companies and is protected very well
 
 At the end, to see how the model is performing , there is no loss function like the supervised learning techniques but we can perform A/B testing which will give us some solid feedbacks
 
-The models here aren't the best it cold be because of restrains of my PC. Things like working with the entire 160k data and training the CNN on the whole data would just take too much time to execute and so the data was cutshort and there was a pre-trained modle loaded
+The models here aren't the best it could be because of restrains of my PC. Things like working with the entire 160k data and training the CNN on the whole data would just take too much time to execute and so the data was cutshort and there was a pre-trained modle loaded
